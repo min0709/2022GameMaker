@@ -4,3 +4,4 @@ public class Gamemaker{
 		System.out.println("°ÔÀÓ ¸ÞÀÌÄ¿ È­ÀÌÆÃ");
 
 	}
+}
